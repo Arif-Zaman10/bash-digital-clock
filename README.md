@@ -28,7 +28,8 @@ It continuously displays the current time in the terminal and updates every seco
 ## ⏱️ Example Output
 14:32:07
 14:32:08
-14:32:09
+14:32:09  
+14:32:10
 
 
 
